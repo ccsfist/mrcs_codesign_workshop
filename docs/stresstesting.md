@@ -2,7 +2,9 @@
 
 ## 1. The Household Economy Analysis Approach
 
-The Household Economy Analysis (HEA) approach is used to understand how climate hazards affect different livelihood systems in Madagascar and how specific adaptation investments can change household outcomes during bad years. Agricultural, pastoral, and coastal livelihoods in southern Madagascar operate within a highly variable climate system where timing matters as much as total rainfall. Farmers depend on the onset of rains, the length of dry spells, and the occurrence of extreme events. Pastoralists depend on forage availability, water access, and herd condition. Coastal households depend on fishing days, mangrove protection, and gear security.
+ After analyzing the mid-term climate risk scenarios, the community feedback, and the Red Cross adaptation plans, we have identified 3 case studies to span the primary adaptation issues and choices under consideration: Field Agriculture, Pastoralism, and Fisheries. In this section, we present a Household Economy Analysis (HEA) for each of these three case studies, breaking down the feasible conditions for sustainable climate adaptation and how AA could enable them.
+
+The HEA approach is used to understand how climate hazards affect different livelihood systems in Madagascar and how specific adaptation investments can change household outcomes during bad years. Agricultural, pastoral, and coastal livelihoods in southern Madagascar operate within a highly variable climate system where timing matters as much as total rainfall. Farmers depend on the onset of rains, the length of dry spells, and the occurrence of extreme events. Pastoralists depend on forage availability, water access, and herd condition. Coastal households depend on fishing days, mangrove protection, and gear security.
 
 Deliverable C shows that communities’ worst drought years in Manakara are consistently associated with rainfall deficits from January through mid‑February, which overlaps with the yam planting period and the early growth stage of rice. Likewise, the worst excess rainfall years in Manakara correspond to rainfall spikes in March (maize planting) and May (rice flowering). In Toliara, drought impacts are driven by late onset of rains, early cessation, or short dry spells during the early vegetative period, while excess rainfall impacts cluster around January and February. For coastal communities, all major community‑reported storm years—such as Freddy (2023), Emnati and Batsirai (2022), and Haruna (2013)—would have triggered the cyclone EAP based on wind‑speed thresholds, but rainfall intensity and storm surge are not fully captured by wind‑speed alone.
 
@@ -56,12 +58,6 @@ Communities in Manakara identified 2022 as both their worst reported year overal
 A year like 2022, where the worst overall conditions and the worst drought were reported, highlights exactly what agroforestry is designed to address. When annual crops fail, a household with established tree crops still has income. When soils are damaged, a household with ground cover and root systems recovers faster the following season. The investment does not prevent the bad year, it changes what the household has left when it ends.
 
 However, fruit trees take three to five years to produce meaningful income. A farmer who plants today will not be protected in the next bad year, but can be in the future. Based on the Manakara record, another year like 2022 is not a distant possibility.
-
-### **Facilitation Prompts**
-
-Do you remember 2022? What happened that year to your crops, your income, your household? What did you have to do to get through it?  
-If you had had fruit trees producing income that year, what would have been different?  
-If you planted trees today and they took four years to produce, would you want them ready before the next year, like 2022?
 
 ### **With and Without Investment**
 
@@ -143,12 +139,6 @@ In this context, rangeland management refers to a combined strategy of rotationa
 
 Building these systems takes time. A rested grazing block needs time to regenerate. Fodder trees also take time to establish. Community governance for rotational grazing requires coordination before any individual household benefits. This work has to happen in manageable years, not during a crisis.
 
-### **Facilitation Prompts**
-
-Do you remember 2009? What happened to your herd that year? How many seasons did it take to recover?  
-In 2013, what was different about that year compared to 2009? What did your household do?  
-If your community agreed to rest one grazing block this season, what would that cost you now and what would it give you in a year like 2009?
-
 ### **With and Without Investment**
 
 | Scenario | Without Investment | With Investment (once established) |
@@ -224,12 +214,6 @@ A household with no alternative income, no gear protection, and degraded mangrov
 
 In this context, aquaculture refers to small‑scale seaweed farming or nearshore fish‑pond systems that provide income even when fishing days are lost due to storms, turbidity, or dangerous sea conditions. Mangrove work includes both restoration of degraded stands and planting of new mangrove seedlings; both approaches take years before providing full coastal buffering and nursery habitat.
 
-### **Facilitation Prompts**
-
-Do you remember 2019? What happened that year to your fishing, your gear, your income? When were you able to fish normally again?  
-Did you notice changes in what you were catching later in that same year: different species, less catch? Why do you think that was?  
-If mangroves take ten years to grow into a real buffer, when is the right time to start planting them?
-
 ### **With and Without Investment**
 
 | Scenario | Without Investment | With Investment (once established) |
@@ -283,10 +267,6 @@ AA provides early storm alerts
 Insurance protects gear  
 Savings buffer lost income  
 Forecasts guide fishing days
-
-## 1.6 Guide
-
-This section supports facilitators in using the case studies during the workshop. The facilitation prompts included in each case study are designed to help participants recall real events, connect them to the adaptation strategies, and reflect on how investments made today could change outcomes in future bad years. The HEA framing helps link community knowledge, climate science, and MRCS programming. The stress‑testing logic shows how households fare under different hazard scenarios and how adaptation, early warning, and risk‑transfer mechanisms can reduce losses and improve recovery.
 
 <div id="slide-config" data-type="simple" data-next="../stresstesting_pt2/" data-kobo-id="nfr4ZP5C" data-width="100%"> </div>
 

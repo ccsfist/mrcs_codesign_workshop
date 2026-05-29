@@ -4,7 +4,7 @@
 
 **This section presents a protocol for discussing climate risks and adaptation options with community members. It translates the Household Economy Analysis into simple, direct exercises in two-way communication.** 
 
-For this field guide, we will use details and numbers from the example case discussed yesterday, but these details should be adapted to the context of the community being visited. For example, you may want to discuss pastoralism and rangeland management in some communities, and farming and agroforestry in others. 
+For this field guide, we will use details and numbers from the example case discussed yesterday, but these details should be adapted to the context of the community being visited. For example, you may want to discuss pastoralism and rangeland management in some communities, and farming and agroforestry in others. Part 5.2 discusses this in more detail. 
 
 ## 1. Risk Scenario Field Guide
 
@@ -157,7 +157,29 @@ The facilitator should use the discussion questions and key points in the sectio
 
 Finally, consider how forecast information could fit into this scenario exercise structure. If communities have forecast information, they could update their decisions. There may be less need for financial protection from a bad year in this case. However, the efficacy of forecasts as a source of information depends on what communities’ prior expectations are, and on the accuracy of the forecast itself. 
 
-## 2. Feedback on Scenarios 
+## 2. Prompts for Specific Livelihood Contexts
+
+### 2.1 Agriculture and Agroforestry
+
+Do you remember 2022? What happened that year to your crops, your income, your household? What did you have to do to get through it?  
+If you had had fruit trees producing income that year, what would have been different?  
+If you planted trees today and they took four years to produce, would you want them ready before the next year, like 2022?
+
+### 2.2 Pastoralism and Rangeland Management
+
+Do you remember 2009? What happened to your herd that year? How many seasons did it take to recover?  
+In 2013, what was different about that year compared to 2009? What did your household do?  
+If your community agreed to rest one grazing block this season, what would that cost you now and what would it give you in a year like 2009?
+
+
+### 2.3 Fisheries and Mangroves
+
+Do you remember 2019? What happened that year to your fishing, your gear, your income? When were you able to fish normally again?  
+Did you notice changes in what you were catching later in that same year: different species, less catch? Why do you think that was?  
+If mangroves take ten years to grow into a real buffer, when is the right time to start planting them?
+
+
+## 3. Feedback on Scenarios 
 
 **The scenario exercise presented here is just a start. How could it be refined to better reflect local context?**
 
