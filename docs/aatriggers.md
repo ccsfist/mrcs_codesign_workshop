@@ -1,4 +1,4 @@
-# 2a. Evaluating and Revising AA Triggers - Part 1
+# 2a. Evaluating AA Triggers
 
 ## 1. Evaluation of Current MRCS AA Policies Using Community Data
 

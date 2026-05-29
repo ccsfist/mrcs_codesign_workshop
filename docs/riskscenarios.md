@@ -1,4 +1,4 @@
-# 3. Understanding the State of the Science on Climate Change in Madagascar
+# 3a. Understanding the State of the Science on Climate Change in Madagascar
 
 ## 1 What Models Can and Can’t Tell Us
 
@@ -106,7 +106,7 @@ Cyclones not only impact property and crops, but also have multidimensional effe
 
 **What effects of climate extremes have you observed in southern Madagascar?** Do you see ways in which these extremes are getting worse, or less predictable? What do these extreme events mean for the community-led adaptation possibilities we identified on day 1?
 
-**Increased bad year losses mean that there is a greater need to rely on a range of adaptation strategies to produce more in a good year, and manage risk.** The next section breaks down those impacts and opportunities on the community scale using a Household Economy Analysis. 
+**Increased bad year losses mean that there is a greater need to rely on a range of adaptation strategies to produce more in a good year, and manage risk.** The next section breaks down those impacts and opportunities on the community scale.
 
 
 [^5]:  https://doi.org/10.1002/wcc.579
@@ -165,5 +165,5 @@ Cyclones not only impact property and crops, but also have multidimensional effe
 
 [^32]: https://www.anticipation-hub.org/Documents/Training_and_Educational_Material/Toolkit_for_anticipatory_action_in_fcv_settings/AA_in_FCV_toolkit_Stress_testing_March_2025.pdf
 
-<div id="slide-config" data-type="kobo" data-next="../stresstesting/" data-kobo-id="nRcvaDKq" data-width="100%"> </div>
+<div id="slide-config" data-type="kobo" data-next="../riskscenarios_pt2/" data-kobo-id="nRcvaDKq" data-width="100%"> </div>
 

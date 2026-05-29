@@ -1,4 +1,4 @@
-# 2b. Evaluating and Revising AA Triggers - Part 2
+# 2b. Revising AA Triggers
 
 ## 2 Co-Designing Revised AA Triggers
 

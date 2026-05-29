@@ -1,4 +1,4 @@
-# 2b. Evaluating and Revising AA Triggers - Part 2 (FR)
+# 2b. Revising AA Triggers (FR)
 
 ## 2 Co-conception de déclencheurs AA révisés
 

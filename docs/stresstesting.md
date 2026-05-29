@@ -1,4 +1,4 @@
-# 4a. Stress-Testing AA and Adaptation Under Climate Change
+# 4a. Household Economy Analysis
 
 ## 1. The Household Economy Analysis Approach
 
