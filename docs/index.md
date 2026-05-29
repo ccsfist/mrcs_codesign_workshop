@@ -1,16 +1,10 @@
-# Imagining Anticipatory Action
+# Community Climate Adaptation Co-Design Toolkit
 
-<img src="groupanalyzing.jpg" alt="groupanalyzing.jpg" style="width:500px;">
+This is a draft of the toolkit for the Madagascar Red Cross Community Climate Adaptation project.
 
-Last updated: 
-Tue Jan 27 16:11:20 EST 2026
-
-In this exercise you will imagine you are a disaster decisionmaker 
-thinking about if it is possible to use forecasts to make disaster preparedness actions.
-
-It is intended to introduce you to key concepts, terms, analysis, and trade-offs for Anticipatory Action projects.  
+Each tab of this website presents a different part of the toolkit. This week, we will work through each part together. At the end of each part, there is a form to capture your feedback. We will integrate your input from this week into the final toolkit. 
 
 Enter your email to proceed (or any nickname to keep your comments organized):
 
-<div id="slide-config" data-type="start" data-next="../disastermandate/"> </div>
+<div id="slide-config" data-type="start" data-next="../intro/"> </div>
 

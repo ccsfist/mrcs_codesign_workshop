@@ -1,4 +1,4 @@
-site_name: Anticipatory Action Decisions
+site_name: MRCS / IFRC Community-Based Climate Adaptation Co-design Workshop
 theme:
   name: material
   logo: ""
@@ -11,20 +11,16 @@ theme:
 
 nav:
 - 'index.md'
-- 'disastermandate.md' # this is intro and IPC table
-- 'probabilityanswers.md'
-- 'aahat.md'
-- 'aahatanswers.md'
-- 'budgets.md'
-- 'budgetanswers.md'
-- 'forecast.md'
-- 'forecastanswers.md'
-- 'forecasterror.md'
-- 'forecasterroranswers.md'
-- 'actiondesign.md'
-- 'actiondesignanswers.md'
-- 'designtools.md'
-- 'operation.md'
+- 'intro.md'
+- 'aatriggers.md' 
+- 'aarevising.md' 
+- 'aarevising_fr.md'
+- 'riskscenarios.md' 
+- 'stresstesting.md' 
+- 'stresstesting_pt2.md' 
+- 'stresstesting_pt2_fr.md' 
+- 'games.md'  
+- 'games_fr.md'  
 - 'finished.md'
 
 plugins:
