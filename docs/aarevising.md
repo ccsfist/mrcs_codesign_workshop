@@ -67,7 +67,7 @@ Drag either end of the “Start Year” slider to change the first and last year
 
 Drag the “frequency” slider to change the targeted frequency of trigger events. For example, a frequency of .10 equates to the worst 10% of years, or equivalently, the worst 3 years out of the past 30\. The frequency slider determines the EAP trigger threshold as well as which community bad years are highlighted. The default frequency is 0.25.  
 
-![](image25.png)
+![](image24.png)
 
 This chart shows the historical performance of the chosen EAP policy, based on the user’s timing and frequency input. The Y axis shows comparative severity (1=worst), and the X axis shows years. Each color on the chart corresponds to the severity of a drought or excess rainfall measurement period selected in the “Variables” pane (aka, a “window”). The “combined\_severity” color is an average severity over all four windows. 
 

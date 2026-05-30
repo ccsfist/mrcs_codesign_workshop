@@ -49,7 +49,7 @@ La partie droite du graphique OAD présente une analyse historique des moments o
 Faites glisser l'une ou l'autre extrémité du curseur « Année de début » pour modifier les années de début et de fin de l'analyse historique. 
 Faites glisser le curseur « fréquence » pour modifier la fréquence ciblée des événements déclencheurs. Par exemple, une fréquence de 0,10 correspond aux 10 % des années les plus défavorables, ou, en d'autres termes, aux 3 années les plus défavorables sur les 30 dernières. Le curseur de fréquence détermine le seuil de déclenchement du PAP ainsi que les mauvaises années de la communauté qui sont mises en évidence. La fréquence par défaut est de 0,25.  
 
-![](image25.png)
+![](image24.png)
 
 Ce graphique présente l'historique des performances de la stratégie EAP sélectionnée, en fonction des paramètres de durée et de fréquence saisis par l'utilisateur. L'axe des Y indique la gravité comparative (1 = pire), et l'axe des X indique les années. Chaque couleur du graphique correspond à la gravité d'une période de mesure de sécheresse ou de précipitations excessives sélectionnée dans le volet « Variables » (ou « fenêtre »). La couleur « combined_severity » correspond à la gravité moyenne sur l'ensemble des quatre fenêtres. 
 Pour comparer les années de déclenchement historiques du Plan d’Action Précoces (PAP) aux années d'impact signalées par les collectivités, cochez les cases « Années de pluviosité excessive » et/ou « Années de sécheresse grave ». Pour comparer ces données aux prévisions de sécheresse saisonnière du DGM, cochez la case « Prévisions de sécheresse saisonnière ».
