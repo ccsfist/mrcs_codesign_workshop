@@ -268,5 +268,5 @@ Insurance protects gear
 Savings buffer lost income  
 Forecasts guide fishing days
 
-<div id="slide-config" data-type="simple" data-next="../stresstesting_pt2/" data-kobo-id="nfr4ZP5C" data-width="100%"> </div>
+<div id="slide-config" data-type="simple" data-next="../stresstesting_bridge/" data-kobo-id="nfr4ZP5C" data-width="100%"> </div>
 
