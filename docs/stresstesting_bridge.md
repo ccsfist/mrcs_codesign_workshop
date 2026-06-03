@@ -31,15 +31,15 @@ In the long term, this strategy will result in greater livelihoods on average.
 
 |  |  Exp. Value | Good Year | Bad Year (p=0.4) |
 | ----- | ----- | ----- | ----- |
-| Original Seeds | **¤80.0** | ¤120.0 | ¤20.0 |
-| Improved Seeds | **¤84.0** | ¤140.0 | ¤0.0 |
+| Traditional Ag | **¤80.0** | ¤120.0 | ¤20.0 |
+| Conservation Ag | **¤84.0** | ¤140.0 | ¤0.0 |
 
 However, under climate change, these strategies may no longer be sufficient. 
 
 |  |  Exp. Value | Good Year | Bad Year (p=0.5) |
 | ----- | ----- | ----- | ----- |
-| Original Seeds | **¤70.0** | ¤120.0 | ¤20.0 |
-| Improved Seeds | **¤70.0** | ¤140.0 | ¤0.0 |
+| Traditional Ag | **¤70.0** | ¤120.0 | ¤20.0 |
+| Conservation Ag | **¤70.0** | ¤140.0 | ¤0.0 |
 
 The household could invest more in improved inputs, but their savings are not enough to offset the increased cost. 
 
